@@ -109,5 +109,3 @@ def sha256(message: typing.Union[str, bytes, bytearray]):
 
 if __name__ == "__main__":
     print(sha256(input()))
-# 0000000000000001@?:s
-# give my friend 2 bitcoins for a pizza
